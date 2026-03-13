@@ -48,7 +48,6 @@ Attenuator, circulator, Isolator, Waveguide twist, Magic Tee, E plane, H plane T
 
 
 
-
 ## INTRODUCTION
 
 A microwave test bench is an assembly of various microwave components, held together by Nuts & Bolts. It consists of a microwave source (Oscillator) at one end. The waves generated are led down by a wave guide through various components, so that the student can observe the propagation of waves, and their interaction and/or processing by various components.

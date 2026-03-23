@@ -1,7 +1,6 @@
 # 1- STUDY-OF-MICROWAVE-COMPONENTS-AND-INSTRUMENTS
 
 
-
 ## Aim:
 To become familiar with microwave components and instruments available in the laboratory.
 
@@ -45,6 +44,7 @@ Attenuator, circulator, Isolator, Waveguide twist, Magic Tee, E plane, H plane T
 12.	E and H Plane Tee
 13.	Matched Termination
 14.	Waveguide to coaxial adapter
+
 
 
 
@@ -249,4 +249,3 @@ These adapters consist of a short section of waveguide with a probe transition c
 
 ## Conclusions:
 Thus,the experiment is studied and verified
-
